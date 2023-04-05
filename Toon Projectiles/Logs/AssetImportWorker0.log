@@ -1,0 +1,899 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.2728; Version 2009; 64bit' Language: 'pl' Physical Memory: 8048 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/USER2/Documents/Toon Projectiles
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54718
+Successfully changed project path to: C:/Users/USER2/Documents/Toon Projectiles
+C:/Users/USER2/Documents/Toon Projectiles
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/USER2/Documents/Toon Projectiles/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006359 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.246 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.600 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 3.362700 ms (FindLiveObjects: 0.659300 ms CreateObjectMapping: 0.162000 ms MarkObjects: 2.429600 ms  DeleteObjects: 0.109400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Rays11dn.mat
+  artifactKey: Guid(1968832aa2477ae4ab6f4c8056914cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Rays11dn.mat using Guid(1968832aa2477ae4ab6f4c8056914cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d1eb33e2e40e003417969ccc69a802') in 0.538260 seconds
+  Import took 0.541187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 8.prefab
+  artifactKey: Guid(11e40931ec6ea2645b692966183791ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 8.prefab using Guid(11e40931ec6ea2645b692966183791ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362a1fc7e03916242d915757b899fc40') in 0.036685 seconds
+  Import took 0.040653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 14.prefab
+  artifactKey: Guid(244f87a37ba29b741848d41f7591bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 14.prefab using Guid(244f87a37ba29b741848d41f7591bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a932f99c9e977a47c817bd8d113efb8') in 0.015924 seconds
+  Import took 0.019111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 3.prefab
+  artifactKey: Guid(9f423c73d6fd3e542a42b41623e81db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 3.prefab using Guid(9f423c73d6fd3e542a42b41623e81db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60fba833e190eed1d5b387e6679360e') in 0.019569 seconds
+  Import took 0.023810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 7.prefab
+  artifactKey: Guid(ac2312a3e32471549882f1a6da5568e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 7.prefab using Guid(ac2312a3e32471549882f1a6da5568e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e596e67513c6a3378902ccf3fadb45') in 0.016800 seconds
+  Import took 0.021027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 5.prefab
+  artifactKey: Guid(8b585bd4793e2404c9ce7e3770159d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 5.prefab using Guid(8b585bd4793e2404c9ce7e3770159d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e4f6e76a8e224e8cc84c309fbc9cf2') in 0.016854 seconds
+  Import took 0.020897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/Hovl Studio
+  artifactKey: Guid(3b4277675ffce2b47b9e85d3187db7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio using Guid(3b4277675ffce2b47b9e85d3187db7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c470152822febb6a956fae8910d91bb') in 0.010992 seconds
+  Import took 0.014150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 8.prefab
+  artifactKey: Guid(2eb45cbb5c5e9d549ac5e123909fff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 8.prefab using Guid(2eb45cbb5c5e9d549ac5e123909fff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd0c77bb071e78ee1720fc6b9c75025') in 0.016340 seconds
+  Import took 0.020158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Hovl Studio/Toon projectiles
+  artifactKey: Guid(5e55bf84ce815ea4b9b45051e50f66e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles using Guid(5e55bf84ce815ea4b9b45051e50f66e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3daf1a715d4867d76d3aa6dfbd55cea') in 0.010960 seconds
+  Import took 0.014176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 2.prefab
+  artifactKey: Guid(b15ff8497c1816242b4531a624ad5784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 2.prefab using Guid(b15ff8497c1816242b4531a624ad5784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88f67d38b693e606279a812e8685c49') in 0.017131 seconds
+  Import took 0.020773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000765 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 9.prefab
+  artifactKey: Guid(b08f505eff218204fb92fac4cda2cfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 9.prefab using Guid(b08f505eff218204fb92fac4cda2cfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13aab80eccd05586d5f518c991213887') in 0.016850 seconds
+  Import took 0.020148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 7.prefab
+  artifactKey: Guid(12c5a36b60a39734f80150bc3e23e850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 7.prefab using Guid(12c5a36b60a39734f80150bc3e23e850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cbb7262da0c500885dab40093eb38b8') in 0.016259 seconds
+  Import took 0.019860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001051 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 1.prefab
+  artifactKey: Guid(4ab48a9a03327fb4ca76018592f4626d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 1.prefab using Guid(4ab48a9a03327fb4ca76018592f4626d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9ec1ec29369fcb7524095eee13a833') in 0.015881 seconds
+  Import took 0.019199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 3.prefab
+  artifactKey: Guid(d07a2dac65a5080458290ccf1869336e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 3.prefab using Guid(d07a2dac65a5080458290ccf1869336e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17539556711ffe865f2696f91bacc45f') in 0.016743 seconds
+  Import took 0.021045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000780 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 10.prefab
+  artifactKey: Guid(0c1d21299412c1b4685f7282c52222a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 10.prefab using Guid(0c1d21299412c1b4685f7282c52222a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c285c5a8c86070e56cc0a62f0b0720b') in 0.017686 seconds
+  Import took 0.021199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000884 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 4.prefab
+  artifactKey: Guid(21380ddb0b252984da608f69594b18ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 4.prefab using Guid(21380ddb0b252984da608f69594b18ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33716acf965d7921cfc2fe34f4e9f22') in 0.016065 seconds
+  Import took 0.019669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 9.prefab
+  artifactKey: Guid(8281469a426430648ad0bf11c78fc3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 9.prefab using Guid(8281469a426430648ad0bf11c78fc3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66daff87d73a6463311a175c4a91e65b') in 0.016558 seconds
+  Import took 0.020193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 13.prefab
+  artifactKey: Guid(0054ac7e7008b144eae4abce4d57bfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 13.prefab using Guid(0054ac7e7008b144eae4abce4d57bfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f85267ae18c4a9b86b9f6628885611') in 0.014607 seconds
+  Import took 0.017909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 1.prefab
+  artifactKey: Guid(8b78bf871862d08409f84a0bac02efdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 1.prefab using Guid(8b78bf871862d08409f84a0bac02efdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2b94de88fecedcb1c30bc97ecb6c12') in 0.019273 seconds
+  Import took 0.023860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Shaders
+  artifactKey: Guid(e245694a2df18bf48a104dd002d7b653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Shaders using Guid(e245694a2df18bf48a104dd002d7b653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f9a33e725c263e2e19559a1e85d731') in 0.013966 seconds
+  Import took 0.017660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 2.prefab
+  artifactKey: Guid(8fea08f7cd39cd243840dcfe935c84bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 2.prefab using Guid(8fea08f7cd39cd243840dcfe935c84bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358b7926a971e5280978473df7c4534d') in 0.019815 seconds
+  Import took 0.024051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001034 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 4.prefab
+  artifactKey: Guid(8d51197dc324b9b46ba083f2bd0bb642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 4.prefab using Guid(8d51197dc324b9b46ba083f2bd0bb642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777f2b552295bb5828659560b296b313') in 0.016987 seconds
+  Import took 0.022533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 12.prefab
+  artifactKey: Guid(0b0d69410ca2f1045b821e4b992ce9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 12.prefab using Guid(0b0d69410ca2f1045b821e4b992ce9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c9aa6b57ea921bf5e7d1e416de7f2a') in 0.020359 seconds
+  Import took 0.027008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000957 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 6.prefab
+  artifactKey: Guid(d6ebe1b9125e36747b5aaed57e503724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 6.prefab using Guid(d6ebe1b9125e36747b5aaed57e503724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168e60081d85a1e525335955dafb6c38') in 0.017754 seconds
+  Import took 0.023184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 15.prefab
+  artifactKey: Guid(21c2c2f37bb45894e8c5ac0cb9e2cb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 15.prefab using Guid(21c2c2f37bb45894e8c5ac0cb9e2cb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7721618be2a1bcb41551cb8be008f596') in 0.024667 seconds
+  Import took 0.029247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000686 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 10.prefab
+  artifactKey: Guid(fae7d8f670da44c4fbef473695272926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 10.prefab using Guid(fae7d8f670da44c4fbef473695272926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9979ecec59b48212d3d738aaae4a4b0a') in 0.048980 seconds
+  Import took 0.054051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 6.prefab
+  artifactKey: Guid(4ab34b8edd399b3499e3bfb5dff80b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 6.prefab using Guid(4ab34b8edd399b3499e3bfb5dff80b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e93431c5c7dfa3de13c67d22103ded') in 0.016732 seconds
+  Import took 0.020015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 11.prefab
+  artifactKey: Guid(6b80d5fba4e83cb4584421b219575610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 11.prefab using Guid(6b80d5fba4e83cb4584421b219575610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d962719bb8ff6a5260a0647e5009e3') in 0.018575 seconds
+  Import took 0.022353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 5.prefab
+  artifactKey: Guid(0c493020e111d7e4fac7535fde124408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Flash 5.prefab using Guid(0c493020e111d7e4fac7535fde124408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc5d812cab2b01ee3bff89e5a3e793c') in 0.016109 seconds
+  Import took 0.019689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.955598 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 11.prefab
+  artifactKey: Guid(b15a120c1390db449b8eb5af19d62424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 11.prefab using Guid(b15a120c1390db449b8eb5af19d62424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f170e7cad01addd0b3c64a1948c9df35') in 0.016706 seconds
+  Import took 0.019708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 3.prefab
+  artifactKey: Guid(f10d307d7517d034aa17196a92fa17eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 3.prefab using Guid(f10d307d7517d034aa17196a92fa17eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56dc0449c414709a573c56268a7e0276') in 0.017904 seconds
+  Import took 0.021367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 13.prefab
+  artifactKey: Guid(ae2b13f9ecf0d2444b46bdcb21f42ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 13.prefab using Guid(ae2b13f9ecf0d2444b46bdcb21f42ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da1799f5c807b627e3a33688ec823b4') in 0.013832 seconds
+  Import took 0.016806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 1.prefab
+  artifactKey: Guid(1405f7a46ad73504d8cbe4b7ddd1d552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 1.prefab using Guid(1405f7a46ad73504d8cbe4b7ddd1d552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2396aab9d425862fbd1fcf146d0ff9a5') in 0.016991 seconds
+  Import took 0.020717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000727 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 12.prefab
+  artifactKey: Guid(91fb7ab2ef38317499700fcf6b971451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 12.prefab using Guid(91fb7ab2ef38317499700fcf6b971451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c03545df54ef14a6cbaac63603bbd87') in 0.012977 seconds
+  Import took 0.016174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 14.prefab
+  artifactKey: Guid(f39c43985f1039b47b3065f46848760e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 14.prefab using Guid(f39c43985f1039b47b3065f46848760e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e8bd66dc637fc5a8c1313303911c56') in 0.014342 seconds
+  Import took 0.017377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 2.prefab
+  artifactKey: Guid(9b2ad6251043bdf498f7d207e054fce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Projectile 2.prefab using Guid(9b2ad6251043bdf498f7d207e054fce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7a7a2a3c200d67cf88b976e408ee76') in 0.018352 seconds
+  Import took 0.022281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 15.prefab
+  artifactKey: Guid(60ff48a39b3e7b644aa620b288bb256e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Prefabs/Hit 15.prefab using Guid(60ff48a39b3e7b644aa620b288bb256e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a6be62cac6050ddf6294419ef0067e') in 0.014084 seconds
+  Import took 0.017950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.711603 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/Conus.fbx
+  artifactKey: Guid(25ce058c1e3d07645ad3c004b15c262c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/Conus.fbx using Guid(25ce058c1e3d07645ad3c004b15c262c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf50adcb8e85eef14a403886c0a63e1') in 0.414491 seconds
+  Import took 0.417424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/ShellQuad.fbx
+  artifactKey: Guid(6cd76237b8422824b95cded50cbec3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/ShellQuad.fbx using Guid(6cd76237b8422824b95cded50cbec3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2288f1aff40024683cb30beb7d26ced0') in 0.039832 seconds
+  Import took 0.042539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/Torpeda1.fbx
+  artifactKey: Guid(87129aba76f9d4b4aada4d294b4d5303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/Torpeda1.fbx using Guid(87129aba76f9d4b4aada4d294b4d5303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ab403972c5b566f3e6a992e639072a') in 0.028189 seconds
+  Import took 0.031369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/QuadToCircle.fbx
+  artifactKey: Guid(c9b3eaae0aa575c4db6feb3ae6fea5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/QuadToCircle.fbx using Guid(c9b3eaae0aa575c4db6feb3ae6fea5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fcec5d25a8529fd331d7187d7776f0') in 0.030970 seconds
+  Import took 0.034305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/Vortex2.fbx
+  artifactKey: Guid(d9cfe6b31b0e73d46b82320079a987e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/Vortex2.fbx using Guid(d9cfe6b31b0e73d46b82320079a987e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c490739a7b0a83e2dacd8d91d5e6761') in 0.033932 seconds
+  Import took 0.037214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/SmoothStar.fbx
+  artifactKey: Guid(b6f26fc5458f7f04e81c6c0b2bb12caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/SmoothStar.fbx using Guid(b6f26fc5458f7f04e81c6c0b2bb12caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f429f44c4decaea7ae8cd65acce64534') in 0.031173 seconds
+  Import took 0.034068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Models/Twist2.fbx
+  artifactKey: Guid(01fe053cd9d4a194c978de14eb10c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Models/Twist2.fbx using Guid(01fe053cd9d4a194c978de14eb10c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c55a502516184ace81d9c49b9ae472a') in 0.028230 seconds
+  Import took 0.031463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.881791 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Aura1bcg.mat
+  artifactKey: Guid(3baffbc67743eb948bc7c456ef0c618e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Aura1bcg.mat using Guid(3baffbc67743eb948bc7c456ef0c618e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de85509927b2e871e0a149c5337a26f') in 0.029528 seconds
+  Import took 0.032552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Fresnel4.mat
+  artifactKey: Guid(db0eda4c763c64d45a721c795ca1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Fresnel4.mat using Guid(db0eda4c763c64d45a721c795ca1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641b66cafd33ba3cc2d933681452c1d2') in 0.022682 seconds
+  Import took 0.025116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flare21bcg.mat
+  artifactKey: Guid(0847e1137284fba48a169ca162e08038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flare21bcg.mat using Guid(0847e1137284fba48a169ca162e08038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd72b1fa07b605d5e855dc281b90637') in 0.022750 seconds
+  Import took 0.025329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flare15bcg.mat
+  artifactKey: Guid(02ce3341d84a63a4b9d21491b120dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flare15bcg.mat using Guid(02ce3341d84a63a4b9d21491b120dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab666eb8e8e4d68043a5ef5c12a2d9b') in 0.023541 seconds
+  Import took 0.027172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000719 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/CircleRainbow15cg.mat
+  artifactKey: Guid(ed1e93ed518d1ab43adb85e56c08f85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/CircleRainbow15cg.mat using Guid(ed1e93ed518d1ab43adb85e56c08f85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c163e01271d1758687831f4b8c557a30') in 0.023645 seconds
+  Import took 0.026211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Fresnel1.mat
+  artifactKey: Guid(b64c4c4260b370243be38bde4993aa9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Fresnel1.mat using Guid(b64c4c4260b370243be38bde4993aa9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536f4b0dc0511a4e150ee9ff5a9438ea') in 0.026776 seconds
+  Import took 0.029447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/HPwater3bcg.mat
+  artifactKey: Guid(f8aa13d5ed966cf44b850c6de57ac5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/HPwater3bcg.mat using Guid(f8aa13d5ed966cf44b850c6de57ac5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1b0604bcf020b9609b8d8876a0b672') in 0.027189 seconds
+  Import took 0.030091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Aura8bcg.mat
+  artifactKey: Guid(9fb4cbf2b460eb9429750f9a52ac15db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Aura8bcg.mat using Guid(9fb4cbf2b460eb9429750f9a52ac15db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45bd5ce02b39578d3f327a8435b14b5') in 0.020420 seconds
+  Import took 0.023148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Circle116cg.mat
+  artifactKey: Guid(0e1abc933455e0247ad2cd6ac9ba5da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Circle116cg.mat using Guid(0e1abc933455e0247ad2cd6ac9ba5da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6154bb36513369b02d8c89dfd904a58') in 0.038428 seconds
+  Import took 0.041383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Gray.mat
+  artifactKey: Guid(bc78c7fb5bbc34141ab039dc9e9142a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Gray.mat using Guid(bc78c7fb5bbc34141ab039dc9e9142a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb44bb18b27141a7eebaa66c53c832ce') in 0.025134 seconds
+  Import took 0.028043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/FlashGroundCG.mat
+  artifactKey: Guid(d5dfb7b499f5de840871d37b9f54d073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/FlashGroundCG.mat using Guid(d5dfb7b499f5de840871d37b9f54d073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e8d733d936746046afde3125f2c28d') in 0.026733 seconds
+  Import took 0.030360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flash31bcg.mat
+  artifactKey: Guid(b2bcced4c3bf44b4387e9681e8e9dce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flash31bcg.mat using Guid(b2bcced4c3bf44b4387e9681e8e9dce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac590b4693eb7ae02ae3796ab55b969') in 0.028217 seconds
+  Import took 0.031493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/HPWater2bcg.mat
+  artifactKey: Guid(65c36ec3a6dcb3d45a08a26d456a07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/HPWater2bcg.mat using Guid(65c36ec3a6dcb3d45a08a26d456a07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b194fab763cd9e71d08170384e792e1') in 0.026636 seconds
+  Import took 0.030197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Circle17bcg.mat
+  artifactKey: Guid(b7add115e5a6aae40bd59ed2ec669500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Circle17bcg.mat using Guid(b7add115e5a6aae40bd59ed2ec669500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550281977bbd6964030573214e2315a3') in 0.025943 seconds
+  Import took 0.029351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flash21cg.mat
+  artifactKey: Guid(14b26389eb7f9f64e91d096f23c8ad2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flash21cg.mat using Guid(14b26389eb7f9f64e91d096f23c8ad2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724e624409a56a2d4f92c57b1cb61c0d') in 0.028130 seconds
+  Import took 0.031865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Lightning11cg.mat
+  artifactKey: Guid(2ac0fd9fa7d384047a598dbfb7c2f044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Lightning11cg.mat using Guid(2ac0fd9fa7d384047a598dbfb7c2f044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300a62293f12ba3f73ed68ef92b58004') in 0.028440 seconds
+  Import took 0.031693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Circle96cg.mat
+  artifactKey: Guid(ca93a53cd7329bf49b7145beee8e22a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Circle96cg.mat using Guid(ca93a53cd7329bf49b7145beee8e22a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b9d6b3e98a234ecca3c2afb36b49be') in 0.029505 seconds
+  Import took 0.032837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000781 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flash30bcg.mat
+  artifactKey: Guid(58caa2f7da28dac4a8fb1d16d377313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flash30bcg.mat using Guid(58caa2f7da28dac4a8fb1d16d377313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded2939a7fca1b7f6ab9ece95254166d') in 0.026776 seconds
+  Import took 0.030847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flash1cg.mat
+  artifactKey: Guid(49e8fa54d8b5d394d98a037964663ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flash1cg.mat using Guid(49e8fa54d8b5d394d98a037964663ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1abdda4b248655c34a0ac0f55b6b00') in 0.027837 seconds
+  Import took 0.031248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Floor2.mat
+  artifactKey: Guid(90b5efb40f4976c42adf1ee90650c8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Floor2.mat using Guid(90b5efb40f4976c42adf1ee90650c8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee052f86fd40c2f4af62b0b732fbed8f') in 0.527949 seconds
+  Import took 0.532604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Glow1bcg.mat
+  artifactKey: Guid(45de8f4006edc6948b033431b5a29e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Glow1bcg.mat using Guid(45de8f4006edc6948b033431b5a29e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489e9275c4d6ad258be31b6ef429d322') in 0.029890 seconds
+  Import took 0.033282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Glow1cg.mat
+  artifactKey: Guid(12fb1d84a82a2de4f8b3e8b1f2747b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Glow1cg.mat using Guid(12fb1d84a82a2de4f8b3e8b1f2747b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93357609243a14c54f68593306bf3d7') in 0.032198 seconds
+  Import took 0.035504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flare17bcg.mat
+  artifactKey: Guid(c95a4f2f3beafef4a8cd1750c8a53e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flare17bcg.mat using Guid(c95a4f2f3beafef4a8cd1750c8a53e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a843f034e0da65b7708ab4004857765') in 0.027395 seconds
+  Import took 0.031182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Flare6cg.mat
+  artifactKey: Guid(82f16bfe1d124c54e877ead985da0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Flare6cg.mat using Guid(82f16bfe1d124c54e877ead985da0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0a84fa7cd26548797941aaa9974f09') in 0.026298 seconds
+  Import took 0.029439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000623 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Materials/Aura2bcg.mat
+  artifactKey: Guid(e89fb2c1c05f54e43880cdec12803d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Materials/Aura2bcg.mat using Guid(e89fb2c1c05f54e43880cdec12803d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c5b5fc4beb4de6eae3175be5f99244') in 0.038490 seconds
+  Import took 0.041927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297449 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/LightingData.asset
+  artifactKey: Guid(7a7919c57552e864fa5b682e085b8024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/LightingData.asset using Guid(7a7919c57552e864fa5b682e085b8024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2ee68686a5ea1541cf29ab5f8a4496') in 0.018926 seconds
+  Import took 0.022179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/PP low.asset
+  artifactKey: Guid(70629691e8eede744b1c85c9ddcc4bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/PP low.asset using Guid(70629691e8eede744b1c85c9ddcc4bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d3655705b14da76e4e7094027d7679') in 0.012896 seconds
+  Import took 0.017022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-1_comp_light.exr
+  artifactKey: Guid(b3d73ff29c6fdfb4baf3ec14374e2c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-1_comp_light.exr using Guid(b3d73ff29c6fdfb4baf3ec14374e2c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e5b6452323b9bb213e75ee0c2ba5df') in 0.085051 seconds
+  Import took 0.088509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000759 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-2_comp_dir.png
+  artifactKey: Guid(ef17dc46ee0664844a0c4b9faa574aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-2_comp_dir.png using Guid(ef17dc46ee0664844a0c4b9faa574aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15121d5e24813cc39d856d65de0870bd') in 0.065002 seconds
+  Import took 0.068178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-1_comp_dir.png
+  artifactKey: Guid(643109bf928b50243b76016d2a11f851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-1_comp_dir.png using Guid(643109bf928b50243b76016d2a11f851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3995ab530ac08ad99e799c79417a584c') in 0.027558 seconds
+  Import took 0.030797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-2_comp_light.exr
+  artifactKey: Guid(48330aba95497374a8862fd6b11cc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-2_comp_light.exr using Guid(48330aba95497374a8862fd6b11cc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d6924f978ff58159e59f245c379d6e') in 0.026478 seconds
+  Import took 0.030296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000751 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(9c209171fd68bf848afbc1919572b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-0_comp_dir.png using Guid(9c209171fd68bf848afbc1919572b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a5bf8a0d177e3fe14acd3457155586') in 0.028808 seconds
+  Import took 0.032092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/ReflectionProbe-0.exr
+  artifactKey: Guid(f1208d37e8996e447b2255f58fe54195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/ReflectionProbe-0.exr using Guid(f1208d37e8996e447b2255f58fe54195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8f979a703f6f44d376ddd2f5d18d39') in 0.049903 seconds
+  Import took 0.053749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000877 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(2d3e46a8e1295024f836be074b1cbfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Demo scene/Lightmap-0_comp_light.exr using Guid(2d3e46a8e1295024f836be074b1cbfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1721139804c310bc8d0bbd5c35772b') in 0.030269 seconds
+  Import took 0.034316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.314612 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Aura1.png
+  artifactKey: Guid(e86bc2e0c5e01014e852efc18115c1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Aura1.png using Guid(e86bc2e0c5e01014e852efc18115c1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b7709fe24ced1a7aa92c6ec3f8b17a1') in 0.025124 seconds
+  Import took 0.027704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_MetallicSmoothness.png
+  artifactKey: Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_MetallicSmoothness.png using Guid(a685c8f461a651a46a2631ea3decafae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196ca1ebfa0faaba537717b39fdf9803') in 0.026939 seconds
+  Import took 0.029117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Aura8.png
+  artifactKey: Guid(9d0fd49146b46da4384d4bea925090f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Aura8.png using Guid(9d0fd49146b46da4384d4bea925090f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095da3e98bc621781f185c134a6b3f96') in 0.019202 seconds
+  Import took 0.021572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flare15.png
+  artifactKey: Guid(8701afd3c077c224aaed7725edcddc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flare15.png using Guid(8701afd3c077c224aaed7725edcddc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d04472655a261e3aae8321153dbe55') in 0.018809 seconds
+  Import took 0.021151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Circle17.png
+  artifactKey: Guid(6ab6673ffc36e0543bd310e5677e9031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Circle17.png using Guid(6ab6673ffc36e0543bd310e5677e9031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfd245e91f139196a4ec4bb512bdc08') in 0.020119 seconds
+  Import took 0.023049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Aura2.png
+  artifactKey: Guid(635ee845f398f1d41914db412e1c7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Aura2.png using Guid(635ee845f398f1d41914db412e1c7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368eff41cf48ab4489409e3955896e85') in 0.021831 seconds
+  Import took 0.024570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Circle96.png
+  artifactKey: Guid(497f35906e684b0459b62e395f9be765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Circle96.png using Guid(497f35906e684b0459b62e395f9be765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e7567df37d49dc5a026c8d021f61f9') in 0.031663 seconds
+  Import took 0.034324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Glow1.png
+  artifactKey: Guid(7605196420d204945843c4c794c58361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Glow1.png using Guid(7605196420d204945843c4c794c58361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5d4cdaa0344d94f53645238184b26a') in 0.021092 seconds
+  Import took 0.023747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Gradient3Repeat.png
+  artifactKey: Guid(c815ff65f7d115d49b3768f7647db1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Gradient3Repeat.png using Guid(c815ff65f7d115d49b3768f7647db1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb1881d4bb865a1bc96ad03ffeeba5') in 0.025002 seconds
+  Import took 0.027980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flash30.png
+  artifactKey: Guid(1308c9c52517e324bade2e62e31ac124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flash30.png using Guid(1308c9c52517e324bade2e62e31ac124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c31cb117ef9161225f75f4df25b6c6') in 0.022314 seconds
+  Import took 0.024859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flare21.png
+  artifactKey: Guid(947fe6f544d82394db98003a81460397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flare21.png using Guid(947fe6f544d82394db98003a81460397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851c40e54e84b36dc8be5e2b0ac74151') in 0.027488 seconds
+  Import took 0.030449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/HPwater2.png
+  artifactKey: Guid(da451e98bc9edb741970c6e5de9d68e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/HPwater2.png using Guid(da451e98bc9edb741970c6e5de9d68e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99871077a61843fcf90d3b360b5b37b8') in 0.022313 seconds
+  Import took 0.025343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_Normal.png
+  artifactKey: Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_Normal.png using Guid(3a0dde7201a17f646865e8deeac56596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31bf10921de1cdca8ec1ce90ccd355e') in 0.034794 seconds
+  Import took 0.037859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_Height.png
+  artifactKey: Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab_Height.png using Guid(db368c1c85b12fe48aba6cc9bcd41f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a23c15dd037d1397e732bfd2fcddb9') in 0.026995 seconds
+  Import took 0.029595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Circle116.png
+  artifactKey: Guid(e7061965d8dab6c4cb3d8b1e3a15784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Circle116.png using Guid(e7061965d8dab6c4cb3d8b1e3a15784e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad8df60d84dea7e3f0b7e05c09175bc') in 0.025867 seconds
+  Import took 0.029469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Gradient14.png
+  artifactKey: Guid(e841d5ab4e2f31945b79eee62b51064a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Gradient14.png using Guid(e841d5ab4e2f31945b79eee62b51064a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e14fe2092093a316a7b1349d0a6161') in 0.025703 seconds
+  Import took 0.028223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flare17.png
+  artifactKey: Guid(a22f92ef9cb68074587b7fb6111a2856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flare17.png using Guid(a22f92ef9cb68074587b7fb6111a2856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24903ff6cdfb93f9384794d124bc648a') in 0.033605 seconds
+  Import took 0.038644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000874 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flash21.png
+  artifactKey: Guid(6c6076316faf3ec48b1600130510cc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flash21.png using Guid(6c6076316faf3ec48b1600130510cc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c65a1e0000b155abb9cdafff8dec17') in 0.025479 seconds
+  Import took 0.029884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Gradient11.png
+  artifactKey: Guid(e535306ab7c05d54294264b1d2c16fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Gradient11.png using Guid(e535306ab7c05d54294264b1d2c16fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91be519c863eac835f02a69d1e8f7e9') in 0.023394 seconds
+  Import took 0.026587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/CircleRainbow15.png
+  artifactKey: Guid(75a658e5f1bedfb43a2d73794c48f717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/CircleRainbow15.png using Guid(75a658e5f1bedfb43a2d73794c48f717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08bc64611d952ab5f5b864409c2f153') in 0.021896 seconds
+  Import took 0.025111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flare6.png
+  artifactKey: Guid(fb60f4826d03c644c80d10aace44bfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flare6.png using Guid(fb60f4826d03c644c80d10aace44bfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfd178447dc651a7dff243a269e2e6d') in 0.025779 seconds
+  Import took 0.029109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Gradient8.png
+  artifactKey: Guid(5b66e25d75ad8bc47a270f48df3ae17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Gradient8.png using Guid(5b66e25d75ad8bc47a270f48df3ae17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597f0b0be92eb534bde5253147545edb') in 0.021912 seconds
+  Import took 0.025016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flash31.png
+  artifactKey: Guid(5bbdafca0dc4e1e43aed87a64e12484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flash31.png using Guid(5bbdafca0dc4e1e43aed87a64e12484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6ab268c9ee4e4afc51a78509193d38') in 0.022833 seconds
+  Import took 0.026396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab.png
+  artifactKey: Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Concrete slab.png using Guid(1b13dc101cf2ac7418019fd776161658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499b15e0592161b79c6c5629c5391fab') in 0.026527 seconds
+  Import took 0.031354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/Hovl Studio/Toon projectiles/Textures/Flash1.png
+  artifactKey: Guid(c3f81953d6f8f3644a53caa6bc38b630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Toon projectiles/Textures/Flash1.png using Guid(c3f81953d6f8f3644a53caa6bc38b630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7099277fb64e83f598b655a5bdf0613a') in 0.022924 seconds
+  Import took 0.026430 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
